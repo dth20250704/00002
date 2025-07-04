@@ -39,4 +39,4 @@
 打开速度是否快，页面是否整洁无遮挡广告
 
 随着版权规范加强，很多“免费”资源平台逐渐消失。建议大家珍惜现有资源，收藏以上网站，并开启书签保存，以防丢失。
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/dth20250704/00002）</span>
